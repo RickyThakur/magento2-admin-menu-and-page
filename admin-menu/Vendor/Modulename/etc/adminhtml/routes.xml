@@ -7,6 +7,7 @@
  * @license   MIT license (see LICENSE.txt for details
  */
 routeadminlabel = it is used in url for the page with controlle name and controller action
+This is not written any where but you should keep declare same value for routeid and frontName, As it is important to redirection and created url secret key. If both are different the it might create problem in secret key genreation as  I faced.
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
     <router id="admin">
