@@ -4,14 +4,14 @@
  * @package   Vendor_Modulename
  * @author    Ricky Thakur (Kapil Dev Singh)
  * @copyright Copyright (c) 2018 Ricky Thakur
- * @license   community edition, reusable and editable
+ * @license   MIT license (see LICENSE.txt for details
  */
+routeadminlabel = it is used in url for the page with controlle name and controller action
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
     <router id="admin">
-        <route id="routeid" frontName="routeadminlabel">
+        <route id="routeadminlabel" frontName="routeadminlabel">
             <module name="Vendor_Modulename" />
         </route>
     </router>
 </config>
-<!-- routeadminlabel = it is used in url for the page with controlle name and controller action -->

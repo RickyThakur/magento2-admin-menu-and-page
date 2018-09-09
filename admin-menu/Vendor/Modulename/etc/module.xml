@@ -4,7 +4,7 @@
  * @package   Vendor_Modulename
  * @author    Ricky Thakur (Kapil Dev Singh)
  * @copyright Copyright (c) 2018 Ricky Thakur
- * @license   community edition, reusable and editable
+ * @license   MIT license (see LICENSE.txt for details
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
